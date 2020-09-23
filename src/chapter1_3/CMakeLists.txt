@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.8)
 
-set (PROJECT_NAME "ch1_3")
+set (PROJECT_NAME "chapter1_3")
 set (CMAKE_CXX_STANDARD 11)
 
 project (${PROJECT_NAME})
