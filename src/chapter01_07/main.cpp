@@ -1,4 +1,4 @@
-﻿// 지역 범위
+// 지역 범위 local scope
 
 #include <iostream>
 

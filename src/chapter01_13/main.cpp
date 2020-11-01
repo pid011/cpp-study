@@ -1,4 +1,4 @@
-﻿// chapter1_13: namespace
+﻿// namespace
 
 #include <iostream>
 

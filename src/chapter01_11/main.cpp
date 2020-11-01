@@ -1,4 +1,4 @@
-﻿// chapter1_11: Header file
+﻿// Header file
 
 #include <iostream>
 #include "include/add.hpp"

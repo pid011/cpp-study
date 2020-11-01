@@ -1,3 +1,4 @@
+// 변수
 #include <iostream>
 
 int main() {
