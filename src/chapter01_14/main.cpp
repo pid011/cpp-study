@@ -1,4 +1,4 @@
-﻿// chapter1_14: macro
+﻿// macro
 
 #include <algorithm>
 #include <iostream>
