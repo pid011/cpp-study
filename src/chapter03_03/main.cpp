@@ -1,4 +1,4 @@
-// chapter03_03: 증감 연산자
+// 증감 연산자 increment decrement operators
 
 #include <iostream>
 
