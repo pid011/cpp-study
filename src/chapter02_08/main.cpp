@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿// 리터털 상수 literal constants
+#include <iostream>
 
 int main() {
     using namespace std;
