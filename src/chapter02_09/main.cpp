@@ -1,3 +1,4 @@
+// 심볼릭 상수 symbolic constants
 #include "my_constants.hpp"
 #include <iostream>
 
