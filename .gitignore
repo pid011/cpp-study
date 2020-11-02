@@ -13,3 +13,5 @@ out/
 build/
 .vscode/
 .vs/
+cmake-build-debug/
+.idea/
