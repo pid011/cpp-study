@@ -1,4 +1,4 @@
-// chapter2_6: boolean / if
+﻿// boolean / if
 
 #include <iostream>
 
@@ -12,15 +12,14 @@ int main(int, char**) {
     using namespace std;
 
     // true는 0이 아닌거, false는 0
-    bool b1 = true;   // copy initialization
-    bool b2(false);   // direct
-    bool b3 { true }; // uniform
+    bool b1 = true; // copy initialization
+    bool b2(false); // direct
+    bool b3{true};  // uniform
 
     cout << b1 << endl;     // 1
     cout << b2 << endl;     // 0
     cout << std::boolalpha; // 숫자로 나오는걸 true, false로 출력함
-    cout << b1 << endl
-         << b2 << endl;
+    cout << b1 << endl << b2 << endl;
 
     cout << endl;
     cout << boolalpha;

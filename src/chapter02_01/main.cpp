@@ -1,4 +1,4 @@
-// chapter2_1: Fundamental data types
+﻿// Fundamental data types
 
 #include <iostream>
 
@@ -30,8 +30,8 @@ int main(int, char**) {
     int i2(123);
 
     // 3. uniform initialization
-    int i3 { 123 };
+    int i3{123};
 
     // 한 줄에 같은 자료형의 변수를 여러개 선언할 수 있음
-    int i { 0 }, j { 0 }, k { 0 };
+    int i{0}, j{0}, k{0};
 }

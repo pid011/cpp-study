@@ -1,4 +1,5 @@
-// cin, cout
+﻿// cin, cout
+
 #include <cstdio>
 #include <iostream>
 

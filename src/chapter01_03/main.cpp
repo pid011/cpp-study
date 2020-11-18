@@ -1,4 +1,4 @@
-// 변수 variable
+﻿// 변수 variable
 #include <iostream>
 
 int main() {

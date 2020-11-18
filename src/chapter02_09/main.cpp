@@ -1,6 +1,7 @@
-// 심볼릭 상수 symbolic constants
-#include "my_constants.hpp"
+﻿// 심볼릭 상수 symbolic constants
 #include <iostream>
+
+#include "my_constants.hpp"
 
 #define NUMBER 30 // C++에서는 거의거의거의 안씀
 
@@ -15,7 +16,7 @@ void print_number(const int num) { // 매개변수에 const 사용 가능
 int main(int, char**) {
     // 컴파일타임 상수
     // 상수는 선언 시에 반드시 초기화해줘야 한다.
-    const double gravity { 9.8 };
+    const double gravity{9.8};
     // gravity = 1.2 // fail
 
     int n;

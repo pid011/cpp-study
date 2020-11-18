@@ -1,4 +1,4 @@
-// chapter2_2: Integers
+﻿// chapter2_2: Integers
 
 #include <iostream>
 #include <limits>
@@ -58,6 +58,6 @@ int main(int, char**) {
 
     cout << endl;
 
-    cout << 22 / 4 << endl;        // 정수형으로 계산하기 때문에 소수점을 잘라낸다.
+    cout << 22 / 4 << endl; // 정수형으로 계산하기 때문에 소수점을 잘라낸다.
     cout << (float)22 / 4 << endl; // float형으로 계산하기 때문에 소수점이 남는다.
 }

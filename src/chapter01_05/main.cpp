@@ -1,4 +1,4 @@
-// function
+﻿// function
 #include <iostream>
 
 using namespace std;

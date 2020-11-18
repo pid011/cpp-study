@@ -1,4 +1,4 @@
-//chapter2_4: void
+﻿// void
 
 #include <iostream>
 

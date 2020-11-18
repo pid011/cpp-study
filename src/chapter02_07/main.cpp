@@ -1,4 +1,4 @@
-// chapter2_7: char
+﻿// char
 
 #include <iostream>
 #include <limits>
@@ -51,8 +51,7 @@ int main(int, char**) {
 
     cout << int('\n') << endl; // 10
     cout << "This is first line\nsecond line\n";
-    cout << "This is first line" << endl
-         << "secondline" << endl;
+    cout << "This is first line" << endl << "secondline" << endl;
     // '\n'은 그냥 줄바꿈
     // endl은 줄바꿈과 동시에 cout의 버퍼에 있는 모든 문자를 출력
     // std::flush는 그냥 cout의 버퍼에 있는 모든 문자를 출력

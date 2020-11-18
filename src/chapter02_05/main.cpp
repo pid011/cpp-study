@@ -1,4 +1,4 @@
-// chapter2_5: Floating Point Numbers
+﻿// Floating Point Numbers
 
 #include <cmath>
 #include <iomanip>

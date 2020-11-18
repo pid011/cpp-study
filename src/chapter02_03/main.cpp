@@ -1,4 +1,4 @@
-// chapter2_3: Fixed-width Integers
+﻿// Fixed-width Integers
 
 #include <iostream>
 // #include <cstdint> // iostream이 cstdint를 선언함
