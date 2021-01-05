@@ -1,4 +1,4 @@
-﻿# Gist: https://gist.github.com/pid011/9d445df38aa693ade24abe187d524a20
+﻿# Gist: https://gist.github.com/pid011/b5f3d0151ce316bd5478d1de768ae2db
 # Reference: https://clang.llvm.org/docs/ClangFormatStyleOptions.html
 
 # In Visual Studio: Format document - Ctrl + K, Ctrl + D, Format selection - Ctrl + K, Ctrl + F
@@ -6,8 +6,12 @@
 Language: Cpp
 
 AccessModifierOffset: -4
+AllowShortCaseLabelsOnASingleLine: true
+# AllowShortEnumsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
 AlwaysBreakTemplateDeclarations: Yes
-BreakBeforeBraces: Attach
+BreakBeforeBraces: Allman
 BreakBeforeBinaryOperators: NonAssignment
 BreakBeforeTernaryOperators: true
 ColumnLimit: 0
