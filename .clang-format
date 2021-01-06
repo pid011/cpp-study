@@ -11,7 +11,7 @@ AllowShortCaseLabelsOnASingleLine: true
 AllowShortIfStatementsOnASingleLine: true
 AllowShortLoopsOnASingleLine: true
 AlwaysBreakTemplateDeclarations: Yes
-BreakBeforeBraces: Attach
+BreakBeforeBraces: Allman
 BreakBeforeBinaryOperators: NonAssignment
 BreakBeforeTernaryOperators: true
 ColumnLimit: 0
